@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {},
     ".NETCoreApp,Version=v8.0/win-x64": {
-      "ScreamingCat/1.0.10.0": {
+      "ScreamingCat/1.0.10.1": {
         "dependencies": {
           "ClosedXML": "0.102.2",
           "Newtonsoft.Json": "13.0.3",
@@ -1908,7 +1908,7 @@
     }
   },
   "libraries": {
-    "ScreamingCat/1.0.10.0": {
+    "ScreamingCat/1.0.10.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
